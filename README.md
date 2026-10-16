@@ -2,7 +2,12 @@
 
 Aplikasi manajemen proyek berbasis Gantt Chart: penjadwalan hari kerja, dependensi antar tugas,
 alokasi tim, kalender proyek, serta analisis Critical Path (CPM) dan diagram PERT.
-Seluruh antarmuka berbahasa Indonesia.
+Seluruh antarmuka berbahasa Indonesia. 
+<img width="1338" height="622" alt="image" src="https://github.com/user-attachments/assets/cdc71ee8-c5ce-40da-8fd8-0c1ae1a822ac" />
+<img width="1339" height="625" alt="image" src="https://github.com/user-attachments/assets/a44b0cb0-2c5b-4aa2-bc36-a79b9f71f557" />
+
+
+
 
 Monorepo npm workspaces: mesin penjadwalan hidup di paket `shared` dan dipakai **sama persis** oleh
 server (sumber kebenaran, disimpan ke database) dan client (pratinjau saat bar di-drag).
